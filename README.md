@@ -30,6 +30,7 @@ My range of workability is large. I am highly effective working with Blockchain 
 - ReactJs
 - Vue
 - Java
+- AWS Clouding Services( Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
 - .Net
 - Mobile App Development
 - Clouding computing
