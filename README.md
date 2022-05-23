@@ -24,20 +24,15 @@ I am a full stack developer and Blockchain expert who has gained experience and 
 My range of workability is large. I am highly effective working with Blockchain development projects.
 
 📫 My workable skills are:
-- Python
-- Ruby
-- NodeJs
-- ReactJs
-- Vue
-- Java
-- AWS Clouding Services( Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
-- .Net
-- Mobile App Development
-- Clouding computing
+- Web Development (web frontend & backend & administration Developments) 
+- AWS Clouding Services (Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
+- Blockchain Engineering (Token, Defi | DEX (website | Smart Contract), NFT Marketplace, Multisig Wallet,Blockchain (private/public) Developments)
+- Workable Programming Skill (react, nodejs, java, python, ruby, objective-c, solidity, c/c++, c#)
+- Database (Oracle, Mysql, MongoDB, AWS DynamoDB)
+- Clouding (AWS EC2, AWS Lambda, AWS SQS, AWS S3, AWS Recognition, AWS Deploy, AWS Security and etc)
 - Database(SQL & NOSQL)
-- HTML
-- Javascript
-- CSS
+- Git, Source Management (Github, Gitlab, Bitbucket, Jira, Trello)
+- Disucssion (Fluent English, Slack, Discord)
 
 I have worked to develop Software System for 15+ years. I can make everything what you want.  
 My projects are about flexibility with Company, timelines with the deadlines, and quality in product. 
