@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @stackdev37
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 stackdev37/stackdev37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋
+- 👋 Hi, I’m @stackdev37
 
 <!--
 **Maosen37/Maosen37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +23,7 @@ Here are some ideas to get you started:
 I am a full stack developer and Blockchain expert who has gained experience and skillfully developed across various domains and platforms in the internet sphere.
 My range of workability is large. I am highly effective working with Blockchain development projects.
 
-My workable skills are:
+📫 My workable skills are:
 - Python
 - Ruby
 - NodeJs
