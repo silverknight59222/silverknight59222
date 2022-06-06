@@ -28,6 +28,7 @@ My range of workability is large. I am highly effective working with Blockchain 
 - AWS Clouding Services (Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
 - Blockchain Engineering (Token, Defi | DEX (website | Smart Contract), NFT Marketplace, Multisig Wallet,Blockchain (private/public) Developments)
 - Workable Programming Skill (react, nodejs, java, python, ruby, objective-c, solidity, c/c++, c#)
+- CMS Frameworks (Wordpress, Drupal and etc)
 - Database (Oracle, Mysql, MongoDB, AWS DynamoDB)
 - Clouding (AWS EC2, AWS Lambda, AWS SQS, AWS S3, AWS Recognition, AWS Deploy, AWS Security and etc)
 - Database(SQL & NOSQL)
