@@ -1,7 +1,8 @@
 
-<h2 align="center">10+ Experience | Full Stack Developer</h2>
+<!-- <h2 align="center">10+ Experience | Full Stack Developer</h2> -->
 <!-- <img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/> -->
 ![](./src/header_.png)
+
 <h1 align="center">Hi, I’m @stackdev37 <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
 
 ##### About me :sunglasses:
@@ -21,6 +22,8 @@ Thanks for your time.
 ##### My workable skills :dart: 
 ---
 <img src="images/acv.gif" alt="Loading" align="right" width="26%"/>
+
+>
 - Web Development (web frontend & backend & administration Developments) 
 - AWS Clouding Services (Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
 - Blockchain Engineering (Token, Defi | DEX (website | Smart Contract), NFT Marketplace, Multisig Wallet,Blockchain (private/public) Developments)
