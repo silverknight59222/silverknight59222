@@ -1,7 +1,8 @@
 
-<img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/>
+<!-- <img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/> -->
+![](./src/header_.png)
 
-<h2 align="center">10+ Experience | Programmer | Electrical Engineer</h2>
+<h2 align="center">10+ Experience | Full Stack Developer</h2>
 
 <hr/><br/>
 
