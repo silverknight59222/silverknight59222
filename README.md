@@ -1,30 +1,38 @@
-<!---
-stackdev37/stackdev37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 👋 Hi, I’m @stackdev37
 
-<!--
-**Maosen37/Maosen37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/>
 
-Here are some ideas to get you started:
+<h2 align="center">10+ Experience | Programmer | Electrical Engineer</h2>
+
+<hr/><br/>
+
+- 
+<h1 align="center">Hi, I’m @stackdev37 <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a full stack developer and Blockchain expert who has gained experience and skillfully developed across various domains and platforms in the internet sphere.
+##### About me :sunglasses:
+---
+> I am a full stack developer and Blockchain expert who has gained experience and skillfully developed across various domains and platforms in the internet sphere.
 My range of workability is large. I am highly effective working with Blockchain development projects.
 
-📫 My workable skills are:
-- Web Development (web frontend & backend & administration Developments) 
+
+I have worked to develop Software System for 10+ years. I can make everything what you want.  
+My projects are about flexibility with Company, timelines with the deadlines, and quality in product. 
+I’m never going to present something to a company that isn’t what you expected. So if you are interested in seeing what I can do, then I ask you to check out my reviews, check out my skills and shoot me a message.
+For last 5 years, I had worked as Project Manager for some projects. I know well how to develop successfully.
+Besides, I can give you good advice. I can say I know well from A to Z how to develop and design any kind of system You think. 
+
+If you would have some suggestion remotely, you can contact me at any time. 
+
+Thanks for your time. 
+
+<br/>
+##### My workable skills :dart: 
+---
+
+<img src="images/acv.gif" alt="Loading" align="right" width="26%"/>
+
+> 
+> - Web Development (web frontend & backend & administration Developments) 
 - AWS Clouding Services (Ec2, SQS, S3, Lambda, Recognintion, Database, Security and etc.)
 - Blockchain Engineering (Token, Defi | DEX (website | Smart Contract), NFT Marketplace, Multisig Wallet,Blockchain (private/public) Developments)
 - Workable Programming Skill (react, nodejs, java, python, ruby, objective-c, solidity, c/c++, c#)
@@ -35,16 +43,20 @@ My range of workability is large. I am highly effective working with Blockchain 
 - Git, Source Management (Github, Gitlab, Bitbucket, Jira, Trello)
 - Disucssion (Fluent English, Slack, Discord)
 
-I have worked to develop Software System for 15+ years. I can make everything what you want.  
-My projects are about flexibility with Company, timelines with the deadlines, and quality in product. 
-I’m never going to present something to a company that isn’t what you expected. So if you are interested in seeing what I can do, then I ask you to check out my reviews, check out my skills and shoot me a message.
-For last 5 years, I had worked as Project Manager for some projects. I know well how to develop successfully.
-Besides, I can give you good advice. I can say I know well from A to Z how to develop and design any kind of system You think. 
-I can’t wait to work with you. 
+<br/>
 
-Because of COVID19 consideration, I used to work at Home. (Remotely). 
-If you would have some suggestion remotely, you can contact me at any time. 
+<img src="images/snake.svg" alt="Loading" width="100%"/>
 
-Thanks for your time. 
-Maosen Hu
+<br/>
+
+##### Languages/Tools :wrench:
+
+---
+
+<img width="30px" alt="AutoCAD" src="images/autocad.png">&nbsp;&nbsp;<img width="30px" alt="EagleCAD" src="images/eagle.png">&nbsp;&nbsp;<img width="30px" alt="vsCode" src="images/vscode.png">&nbsp;&nbsp;<img width="30px" alt="Git" src="images/git.png">&nbsp;&nbsp;<img width="30px" alt="SublimeText" src="images/sublimetext.png">&nbsp;&nbsp;<img width="30px" alt="CodeLime" src="images/codelime.png">&nbsp;&nbsp;<img width="30px" alt="android" src="images/android.svg">&nbsp;&nbsp;<img width="30px" alt="windows" src="images/windows.svg">&nbsp;&nbsp;<img width="30px" alt="photoshop" src="images/photoshop.png">&nbsp;&nbsp;<img width="30px" alt="illustrator" src="images/illustrator.png">&nbsp;&nbsp;<img width="30px" alt="xd" src="images/xd.svg">&nbsp;&nbsp;<img width="30px" alt="VSDC" src="images/vsdc.png">&nbsp;&nbsp;<img width="30px" alt="js" src="images/js.png">&nbsp;&nbsp;<img width="30px" alt="php" src="images/php.png">&nbsp;&nbsp;<img width="30px" alt="java" src="images/java.png">&nbsp;&nbsp;<img width="30px" alt="kt" src="images/kt.png">&nbsp;&nbsp;<img width="30px" alt="py" src="images/py.png">&nbsp;&nbsp;<img width="30px" alt="r" src="images/r.png">&nbsp;&nbsp;<img width="30px" alt="rb" src="images/rb.png">&nbsp;&nbsp;<img width="30px" alt="c" src="images/c.png">&nbsp;&nbsp;<img width="30px" alt="cpp" src="images/cpp.png">&nbsp;&nbsp;<img width="30px" alt="cs" src="images/cs.png">&nbsp;&nbsp;<img width="30px" alt="more" src="images/more.png">
+
+<br/>
+
+</p>
+<img src="images/wave.svg" alt="Loading" width="100%"/>
 
