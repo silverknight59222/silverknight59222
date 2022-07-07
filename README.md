@@ -9,9 +9,12 @@
 ---
 > I am a full stack developer and Blockchain expert who has gained experience and skillfully developed across various domains and platforms in the internet sphere.
 My range of workability is large. I am highly effective working with Blockchain development projects.
+
 I have worked to develop Software System for 10+ years. I can make everything what you want.  
 My projects are about flexibility with Company, timelines with the deadlines, and quality in product. 
+
 I’m never going to present something to a company that isn’t what you expected. So if you are interested in seeing what I can do, then I ask you to check out my reviews, check out my skills and shoot me a message.
+
 For last 5 years, I had worked as Project Manager for some projects. I know well how to develop successfully.
 Besides, I can give you good advice. I can say I know well from A to Z how to develop and design any kind of system You think. 
 If you would have some suggestion remotely, you can contact me at any time. 
