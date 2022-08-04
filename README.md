@@ -3,7 +3,7 @@
 <!-- <img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/> -->
 ![](./src/header_.png)
 
-<h1 align="center">Hi, I’m stackdev37@gmail.com <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
+<h1 align="center">Hi, Welcome to my profile! <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
 
 ##### About me :sunglasses:
 ---
