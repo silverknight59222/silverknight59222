@@ -4,23 +4,6 @@
 ![](./src/header_.png)
 
 <h1 align="center">Hi, Welcome to my profile! <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
-
-##### My workable skills :dart: 
----
-<img src="images/acv.gif" alt="Loading" align="right" width="26%"/>
-
->
-•	Professional Java Full Stack Engineer with extensive experience in React/redux, Restful Api, graphQL, core java, microservices etc.
-•	Strong experience with SQL and NoSQL databases including MongoDB and GraphQL.
-•	Experience Developing RESTful APIs using Java, Spring Boot for a web application with over 1 million users per month.
-•	Proficient in Angular for complex UI/UX implementation
-•	Strong expertise in using React.js/Redux to build User Interface & Used React-Auto complete for creating google map's location search on the webpage
-•	Used Middleware, Redux-Promise in application to retrieve data from Back-End and to also perform RESTFUL services.
-•	Proven ability to design, build, and maintain efficient and scalable systems. Passionate about developing maintainable code, using the latest technologies, and working in a collaborative environment.
-•	Experience Building the infrastructure for CI/CD with Jenkins, Docker, Kubernetes.
-
-<br/>
-
 <img src="images/snake.svg" alt="Loading" width="100%"/>
 
 <br/>
