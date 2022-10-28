@@ -5,32 +5,19 @@
 
 <h1 align="center">Hi, Welcome to my profile! <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
 
-##### About me :sunglasses:
----
-> Java Full Stack Developer who has gained experience and skillfully developed across various domains and platforms in the internet sphere.
-My range of workability is large.
-
-> I have worked to develop Software System for 10+ years. I can make everything what you want.  
-My projects are about flexibility with Company, timelines with the deadlines, and quality in product. 
-
-> I’m never going to present something to a company that isn’t what you expected. So if you are interested in seeing what I can do, then I ask you to check out my reviews, check out my skills and shoot me a message.
-<br/>
-
 ##### My workable skills :dart: 
 ---
 <img src="images/acv.gif" alt="Loading" align="right" width="26%"/>
 
 >
-- Web Development (web frontend & backend & administration Developments) 
-- AWS Clouding Services (Ec2, AKS SQS, S3, Lambda, Recognintion, Database, Security and etc.) & GCP(with GKE)
-- Microservice Architecture
-- Workable Programming Skill (java, python, nodejs, angular, react, c/c++, c#)
-- CMS Frameworks (Wordpress, Drupal and etc)
-- Database (Oracle, Mysql, MongoDB, AWS DynamoDB)
-- Kubernetes & Dokcer
-- Database(SQL & NOSQL)
-- Git, Source Management (Github, Gitlab, Bitbucket, Jira, Trello)
-- Disucssion (Fluent English, Slack, Discord)
+•	Professional Java Full Stack Engineer with extensive experience in React/redux, Restful Api, graphQL, core java, microservices etc.
+•	Strong experience with SQL and NoSQL databases including MongoDB and GraphQL.
+•	Experience Developing RESTful APIs using Java, Spring Boot for a web application with over 1 million users per month.
+•	Proficient in Angular for complex UI/UX implementation
+•	Strong expertise in using React.js/Redux to build User Interface & Used React-Auto complete for creating google map's location search on the webpage
+•	Used Middleware, Redux-Promise in application to retrieve data from Back-End and to also perform RESTFUL services.
+•	Proven ability to design, build, and maintain efficient and scalable systems. Passionate about developing maintainable code, using the latest technologies, and working in a collaborative environment.
+•	Experience Building the infrastructure for CI/CD with Jenkins, Docker, Kubernetes.
 
 <br/>
 
